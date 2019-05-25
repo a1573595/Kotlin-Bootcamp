@@ -13,6 +13,7 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables.useSupportLibrary = true  //向21下相容向量圖，禁止從向量圖生成PNG
     }
     buildTypes {
         release {
