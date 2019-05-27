@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Chien-Ju</string>
+    <string name="star_yellow">Yellow star</string>
+    <string name="introduce">My name is JIAN-RU WU. I major in Electronic Engineering in National Taipei University of Technology.
+        \n\n
+        Programing Language
+        　　■ C
+        　　■ C++
+        　　■ Java
+        　　■ Kotlin
+        　　■ SQL
+        \n\nSystem Administration
+        \n\t\tOperating System ■ Android
+        \n\n\t\tVersion Control
+        　　　■ Git</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
