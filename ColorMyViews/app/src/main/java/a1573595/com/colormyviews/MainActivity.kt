@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity() {
             R.id.tv_box_four -> v.setBackgroundResource(android.R.color.holo_green_dark)
             R.id.tv_box_five -> v.setBackgroundResource(android.R.color.holo_green_light)
             R.id.btn_red -> tv_box_three.setBackgroundResource(android.R.color.holo_red_dark)
-            R.id.btn_yellow -> tv_box_four.setBackgroundResource(android.R.color.holo_orange_dark)
+            R.id.btn_yellow -> tv_box_four.setBackgroundResource(android.R.color.holo_orange_light)
             R.id.btn_green -> tv_box_five.setBackgroundResource(android.R.color.holo_green_dark)
             else -> v.setBackgroundColor(Color.LTGRAY)
         }

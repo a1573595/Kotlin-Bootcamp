@@ -59,7 +59,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/tv_text" app:layout_constraintStart_toStartOf="@+id/tv_box_two"
             android:textSize="24sp"
-            android:layout_marginStart="12dp" app:layout_constraintBaseline_toBaselineOf="@+id/tv_info"/>
+            app:layout_constraintBaseline_toBaselineOf="@+id/tv_info"/>
     <TextView
             android:text="@string/tap_the_boxes_and_buttons"
             android:layout_width="0dp"
